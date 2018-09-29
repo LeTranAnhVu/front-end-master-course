@@ -1,0 +1,11 @@
+/* xy ly phan dau  */
+.topmenu{
+    text-align: center;
+}
+.topmenu nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/* xu ly menu chinh */
